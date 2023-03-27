@@ -1,0 +1,15 @@
+D:\carlo\Projeto\Automação\FlaUI\FlaUI\bin\Debug\net6.0\Sample.exe
+D:\carlo\Projeto\Automação\FlaUI\FlaUI\bin\Debug\net6.0\Sample.deps.json
+D:\carlo\Projeto\Automação\FlaUI\FlaUI\bin\Debug\net6.0\Sample.runtimeconfig.json
+D:\carlo\Projeto\Automação\FlaUI\FlaUI\bin\Debug\net6.0\Sample.dll
+D:\carlo\Projeto\Automação\FlaUI\FlaUI\bin\Debug\net6.0\Sample.pdb
+D:\carlo\Projeto\Automação\FlaUI\FlaUI\obj\Debug\net6.0\Sample.csproj.AssemblyReference.cache
+D:\carlo\Projeto\Automação\FlaUI\FlaUI\obj\Debug\net6.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\carlo\Projeto\Automação\FlaUI\FlaUI\obj\Debug\net6.0\Sample.AssemblyInfoInputs.cache
+D:\carlo\Projeto\Automação\FlaUI\FlaUI\obj\Debug\net6.0\Sample.AssemblyInfo.cs
+D:\carlo\Projeto\Automação\FlaUI\FlaUI\obj\Debug\net6.0\Sample.csproj.CoreCompileInputs.cache
+D:\carlo\Projeto\Automação\FlaUI\FlaUI\obj\Debug\net6.0\Sample.dll
+D:\carlo\Projeto\Automação\FlaUI\FlaUI\obj\Debug\net6.0\refint\Sample.dll
+D:\carlo\Projeto\Automação\FlaUI\FlaUI\obj\Debug\net6.0\Sample.pdb
+D:\carlo\Projeto\Automação\FlaUI\FlaUI\obj\Debug\net6.0\Sample.genruntimeconfig.cache
+D:\carlo\Projeto\Automação\FlaUI\FlaUI\obj\Debug\net6.0\ref\Sample.dll
